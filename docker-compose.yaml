@@ -1,0 +1,9 @@
+services:
+  bun:
+    build:
+      context: .
+      dockerfile: docker/bun/Dockerfile
+    tty: true
+    command: sleep infinity
+    volumes:
+      - .:/app
