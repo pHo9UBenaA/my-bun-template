@@ -1,24 +1,24 @@
 {
-  "name": "",
-  "description": "",
-  "version": "",
-  "type": "module",
-  "scripts": {
-    "ci": "biome ci . --error-on-warnings",
-    "format": "biome format --write .",
-    "lint": "biome lint --write . --error-on-warnings",
-    "check": "biome check --write ."
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@types/bun": "^1.1.14",
-    "typescript": "^5.0.0"
-  },
-  "keywords": [],
-  "author": "Komiya",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pHo9UBenaA/"
-  },
-  "license": "MIT"
+	"name": "",
+	"description": "",
+	"version": "",
+	"type": "module",
+	"scripts": {
+		"ci": "biome ci . --error-on-warnings",
+		"format": "biome format --write .",
+		"lint": "biome lint --write . --error-on-warnings",
+		"check": "biome check --write ."
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@types/bun": "^1.1.14",
+		"typescript": "^5.0.0"
+	},
+	"keywords": [],
+	"author": "Komiya",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pHo9UBenaA/"
+	},
+	"license": "MIT"
 }
