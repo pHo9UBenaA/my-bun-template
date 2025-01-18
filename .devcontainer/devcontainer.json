@@ -1,0 +1,9 @@
+{
+	"name": "Bun",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": ["oven.bun-vscode"]
+		}
+	}
+}
